@@ -21,5 +21,6 @@ This repository documents my progress from the very beginning. Every solution he
 | #    | Problem          | Difficulty | Concepts                    | Status |
 | ---- | ---------------- | ---------- | --------------------------- | ------ |
 | 2235 | Add Two Integers | Easy       | Functions, Return Statement | ✅     |
+| 1281 | 1281 Product and Sum | Easy       | Functions, Return Statement | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
