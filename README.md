@@ -23,5 +23,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 2235 | Add Two Integers | Easy       | Functions, Return Statement | ✅     |
 | 1281 | 1281 Product and Sum | Easy       | Functions, Return Statement | ✅     |
 | 1342 | Reduce Number to Zero | Easy       | Loop, conditinals, Return Statement | ✅     |
+| 2520  | Count Digits | Easy       | Loop, conditinals, Return Statement | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
