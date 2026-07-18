@@ -21,10 +21,11 @@ This repository documents my progress from the very beginning. Every solution he
 | #    | Problem          | Difficulty | Concepts                    | Status |
 | ---- | ---------------- | ---------- | --------------------------- | ------ |
 | 2235 | Add Two Integers | Easy       | Functions, Return Statement | ✅     |
-| 1281 | 1281 Product and Sum | Easy       | Functions, Return Statement | ✅     |
+| 1281 | 1281 Product and Sum | Easy       | Digit extraction(%, /) | ✅     |
 | 1342 | Reduce Number to Zero | Easy       | Loop, conditinals, Return Statement | ✅     |
-| 2520  | Count Digits | Easy       | Loop, conditinals, Return Statement | ✅     |
+| 2520  | Count Digits | Easy       | Loop, conditinals, Return Statement, Preserving original value | ✅     |
 | 9  | Palindrome Number | Easy       | Loop, conditinals, Return Statement | ✅     |
 | 2119  | Double Reversal | Easy       | Loop, conditinals, Return Statement | ✅     |
+| 412  | FizzBuzz | Easy       |  conditinals, Return Statement, List, ArrayList, String.valueof() | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
