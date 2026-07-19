@@ -27,5 +27,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 9  | Palindrome Number | Easy       | Loop, conditinals, Return Statement | ✅     |
 | 2119  | Double Reversal | Easy       | Loop, conditinals, Return Statement | ✅     |
 | 412  | FizzBuzz | Easy       |  conditinals, Return Statement, List, ArrayList, String.valueof() | ✅     |
+| 258  | Add Digits | Easy       |  Loops  | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
