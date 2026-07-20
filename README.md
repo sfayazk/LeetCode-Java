@@ -28,5 +28,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 2119  | Double Reversal | Easy       | Loop, conditinals, Return Statement | ✅     |
 | 412  | FizzBuzz | Easy       |  conditinals, Return Statement, List, ArrayList, String.valueof() | ✅     |
 | 258  | Add Digits | Easy       |  Loops  | ✅     |
+| 1  | Two Sum | Easy       |  Loops, Conditionals, Avoid checking duplicate and same pairs  | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
