@@ -29,5 +29,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 412  | FizzBuzz | Easy       |  conditinals, Return Statement, List, ArrayList, String.valueof() | ✅     |
 | 258  | Add Digits | Easy       |  Loops  | ✅     |
 | 1  | Two Sum | Easy       |  Loops, Conditionals, Avoid checking duplicate and same pairs  | ✅     |
+| 1929  | Concatenation of Array | Easy       |  Loops  | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
