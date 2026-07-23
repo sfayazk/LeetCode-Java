@@ -31,5 +31,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 1  | Two Sum | Easy       |  Loops, Conditionals, Avoid checking duplicate and same pairs  | ✅     |
 | 1929  | Concatenation of Array | Easy       |  Loops  | ✅     |
 | 1480  | Running Sum of 1D Array | Easy       |  Loops  | ✅     |
+| 1295  | Find Numbers with Even Number of Digits | Easy       |  Loops, Conditionals  | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
