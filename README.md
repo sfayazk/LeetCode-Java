@@ -32,5 +32,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 1929  | Concatenation of Array | Easy       |  Loops  | ✅     |
 | 1480  | Running Sum of 1D Array | Easy       |  Loops  | ✅     |
 | 1295  | Find Numbers with Even Number of Digits | Easy       |  Loops, Conditionals  | ✅     |
+| 1672  | Richest Customer Wealth | Easy       |  Loops, Conditionals, Reset the value to compare  | ✅     |
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
