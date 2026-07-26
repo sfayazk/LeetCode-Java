@@ -34,6 +34,7 @@ This repository documents my progress from the very beginning. Every solution he
 | 1295  | Find Numbers with Even Number of Digits | Easy       |  Loops, Conditionals  | ✅     |
 | 1672  | Richest Customer Wealth | Easy       |  Loops, Conditionals, Reset the value to compare  | ✅     |
 | 704  | Binary Search | Easy       |  Loops, Conditionals  | ✅     |
-| 1920  | Build Array from Permutation | Easy       |  Loops  | ✅     |
+| 1920  | Build Array from Permutation | Easy       |  Loops  | ✅     | 
+| 485  | Max Consecutive Ones | Easy       |  Loops, Conditionals  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
