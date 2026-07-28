@@ -37,5 +37,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 1920  | Build Array from Permutation | Easy       |  Loops  | ✅     | 
 | 485  | Max Consecutive Ones | Easy       |  Loops, Conditionals  | ✅     | 
 | 1464  | Maximum Product of Two Elements in an Array | Easy       |  Loops, Conditionals  | ✅     | 
+| 1732  | Find the Highest Altitude | Easy       |  Loops, Conditionals  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
