@@ -39,5 +39,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 1464  | Maximum Product of Two Elements in an Array | Easy       |  Loops, Conditionals  | ✅     | 
 | 1732  | Find the Highest Altitude | Easy       |  Loops, Conditionals  | ✅     | 
 | 744  | Find Smallest Letter Greater Than Target | Easy       |  Loops, Conditionals  | ✅     | 
+| 3701  | Compute Alternate Sum | Easy       |  Loops, Conditionals  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
