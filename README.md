@@ -40,5 +40,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 1732  | Find the Highest Altitude | Easy       |  Loops, Conditionals  | ✅     | 
 | 744  | Find Smallest Letter Greater Than Target | Easy       |  Loops, Conditionals  | ✅     | 
 | 3701  | Compute Alternate Sum | Easy       |  Loops, Conditionals  | ✅     | 
+| 34  | Find First and Last Position of Element in Sorted Array | Medium       |  Binary Search  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
