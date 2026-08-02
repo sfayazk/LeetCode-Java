@@ -42,5 +42,6 @@ This repository documents my progress from the very beginning. Every solution he
 | 3701  | Compute Alternate Sum | Easy       |  Loops, Conditionals  | ✅     | 
 | 977  | Squares of a Sorted Array | Easy       |  Loops, Conditionals  | ✅     | 
 | 34  | Find First and Last Position of Element in Sorted Array | Medium       |  Binary Search  | ✅     | 
+| 852  | Peak Index in a Mountain Array | Medium       |  Burte force approach, loops, conditionals  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
