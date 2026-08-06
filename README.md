@@ -41,6 +41,7 @@ This repository documents my progress from the very beginning. Every solution he
 | 744  | Find Smallest Letter Greater Than Target | Easy       |  Loops, Conditionals  | ✅     | 
 | 3701  | Compute Alternate Sum | Easy       |  Loops, Conditionals  | ✅     | 
 | 977  | Squares of a Sorted Array | Easy       |  Loops, Conditionals  | ✅     | 
+| 414  | Third Maximum Number | Easy       |  Loops, Conditionals  | ⏳     | 
 | 34  | Find First and Last Position of Element in Sorted Array | Medium       |  Binary Search  | ✅     | 
 | 852  | Peak Index in a Mountain Array | Medium       |  Optimized to O(log n), loops, conditionals  | ✅     | 
 | 162  | Find Peak Element | Medium       |  loops, conditionals  | ✅     | 
