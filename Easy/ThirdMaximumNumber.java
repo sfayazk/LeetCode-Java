@@ -1,27 +1,29 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        int max1 = 0;
-        int max2 = 0;
-        int max3 = 0;
+        Integer max1 = null;
+        Integer max2 = null;
+        Integer max3 = null;
         
         for(int i=0; i<nums.length; i++){  
-            if(max1<nums[i]){
-                int temp1 = max1; 
-                int temp2 = max2;
+            if(max1!=null && max1==nums[i] || max2!=null && max2==nums[i] || max3!=null&&max3==nums[i]){
+                continue;
+            }
+            if(max1==null || max1<nums[i]){
+                max3 = max2;
+                max2 = max1;
                 max1 = nums[i];
-                max2 = temp1;
-                max3 = temp2;
-            }else if(max1>nums[i] && max2<nums[i]){
-                int temp2 = max2;
+            }
+            else if(max2==null || max2<nums[i]){
+                max3 = max2;
                 max2 = nums[i];
-                max3 = temp2;
-            }else if(max1>nums[i] && max2>nums[i] && max3<nums[i]){
+            }
+            else if(max3==null || max3<nums[i]){
                 max3 = nums[i];
             }
         }
-        if(nums.length<3){
+        if(max3==null){
             return max1;
         }
-            return max3;
+        return max3;
     }
 }
