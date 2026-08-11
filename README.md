@@ -49,6 +49,7 @@ This repository documents my progress from the very beginning. Every solution he
 | 852  | Peak Index in a Mountain Array | Medium       |  Optimized to O(log n), loops, conditionals  | ✅     | 
 | 162  | Find Peak Element | Medium       |  loops, conditionals  | ✅     | 
 | 33  | Search In Rotated Sorted Array | Medium       |  Binary Search, Pivot Element  | ✅     | 
+| 81  | Search In Rotated Sorted Array 2 | Medium       |  Binary Search, Handling Duplicate Elements  | ✅     | 
 | 1095  | Find In Mountain Array | Hard       |  Order agnostic binary search, Moutain array  | ✅     | 
 
 > "Consistency beats intensity. One problem every day is better than ten problems once a month."
