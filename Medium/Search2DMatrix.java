@@ -6,28 +6,10 @@ class Solution {
         if (rows == 1) {
             return binarySearch(matrix, 0, 0, cols - 1, target);
         }
-        if (cols == 1) {
-            int start = 0;
-            int end = rows - 1;
-
-            while (start <= end) {
-                int mid = start + (end - start) / 2;
-
-                if (matrix[mid][0] == target) {
-                    return true;
-                } else if (target > matrix[mid][0]) {
-                    start = mid + 1;
-                } else {
-                    end = mid - 1;
-                }
-            }
-
-            return false;
-        }
 
         int rStart = 0;
         int rEnd = matrix.length - 1;
-        int cMid = cols / 2;
+        int cMid = (cols-1) / 2;
 
         while (rStart < rEnd - 1) {
             int rMid = rStart + (rEnd - rStart) / 2;
@@ -52,13 +34,13 @@ class Solution {
         }
 
         // Check the remaining four parts of the 2 rows.
-        if (target <= matrix[rStart][cMid - 1]) {
+        if (cMid>0 && target <= matrix[rStart][cMid - 1]) {
             return binarySearch(matrix, rStart, 0, cMid - 1, target);
         }
-        if (target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
+        if (cols > 1 && target >= matrix[rStart][cMid + 1] && target <= matrix[rStart][cols - 1]) {
             return binarySearch(matrix, rStart, cMid + 1, cols - 1, target);
         }
-        if (target <= matrix[rEnd][cMid - 1]) {
+        if (cMid>0 && target <= matrix[rEnd][cMid - 1]) {
             return binarySearch(matrix, rEnd, 0, cMid - 1, target);
         } else {
             return binarySearch(matrix, rEnd, cMid + 1, cols - 1, target);
