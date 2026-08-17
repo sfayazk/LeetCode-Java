@@ -53,6 +53,7 @@ This repository documents my progress from the very beginning. Every solution he
 | 81  | Search In Rotated Sorted Array 2 | Medium       |  Binary Search, Handling Duplicate Elements  | ✅     | 
 | 153  | Find Minimum in Rotated Sorted Array | Medium       |  Binary Search   | ✅     | 
 | 74  | Search a 2D Matrix | Medium       |  Binary Search in 2D   |  ✅    | 
+| 875  | Koko Eating Bananas | Medium       |  Binary Search on possible Answers   |  ✅    | 
 | 1095  | Find In Mountain Array | Hard       |  Order agnostic binary search, Moutain array  | ✅     | 
 | 410  | Split Array Largest Sum | Hard       |  Subarray  | ✅     | 
 
