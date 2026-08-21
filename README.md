@@ -49,6 +49,7 @@ This repository documents my progress from the very beginning. Every solution he
 | 69  | Sqrt(x) | Easy       |  Binary Search on Answers  | ✅     | 
 | 66  | Plus One | Easy       |  Carry Propagation  | ✅     | 
 | 231  | Power Of Two | Easy       |  Bit Manipulation  | ✅     | 
+| 67  | Add Binary | Easy       |  Carry   | ✅     | 
 | 34  | Find First and Last Position of Element in Sorted Array | Medium       |  Binary Search  | ✅     | 
 | 852  | Peak Index in a Mountain Array | Medium       |  Optimized to O(log n), loops, conditionals  | ✅     | 
 | 162  | Find Peak Element | Medium       |  loops, conditionals  | ✅     | 
